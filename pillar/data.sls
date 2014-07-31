@@ -1,4 +1,4 @@
-accept_oracle_download_terms: false
+accept_oracle_download_terms: true
 base_dir: /home/vagrant/agiledata
 user: vagrant
 group: vagrant
